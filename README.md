@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">I'm Collins Zimba, a passionate Full Stack developer from South Africa</h3>
 
+- 🔭 I’m currently working on [RandomAdviceApp](https://github.com/madebycollins/randomadviceapp)
+
 - 👨‍💻 All of my projects are available at [github.com/madebycollins](github.com/madebycollins)
 
 - 📝 I regularly write articles on [www.christianadulting.com](www.christianadulting.com)
