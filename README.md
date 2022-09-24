@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [www.christianadulting.com](www.christianadulting.com)
 
-- 💬 Ask me about **VueJS / NuxtJS / ExpressJS**
+- 💬 Ask me about **ReactJS / NextJS / VueJS / NuxtJS / ExpressJS**
 
 - 📫 How to reach me **me@madebycollins.com**
 
