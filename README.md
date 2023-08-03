@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **ReactJS / NextJS / VueJS / NuxtJS / ExpressJS**
 
-- 📫 How to reach me **me@madebycollins.com**
+- 📫 How to reach me **reach@madebycollins.com**
 
 - ⚡ Fun fact **I'm super funny**
 
